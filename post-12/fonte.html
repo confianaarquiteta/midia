@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<style>
+@font-face{font-family:'Fraunces';font-weight:600;src:url('fraunces-latin-600-normal.woff2') format('woff2');}
+body{margin:0}
+.root{width:1080px;height:1350px;position:relative;overflow:hidden;font-family:'Inter',Arial,sans-serif;background:#F3EDE4}
+.foto{position:absolute;left:0;top:0;width:1080px;height:auto;display:block}
+.selo{position:absolute;left:56px;top:44px;background:#A55A41;color:#fff;font-weight:700;font-size:26px;letter-spacing:3px;padding:14px 28px;border-radius:999px}
+.titulo{position:absolute;left:150px;right:120px;top:806px;font-family:'Fraunces',Georgia,serif;font-weight:600;font-size:56px;line-height:1.05;color:#3B2A22}
+.sub{position:absolute;left:150px;top:944px;font-size:28px;font-weight:600;color:#3B2A22}
+.cota{position:absolute;left:44px;top:1040px;background:#FFFFFF;color:#A55A41;font-family:'Fraunces',Georgia,serif;font-weight:600;font-size:44px;line-height:1;padding:12px 18px;border-radius:12px;box-shadow:0 2px 10px rgba(0,0,0,.18)}
+.credito{position:absolute;right:28px;bottom:22px;font-size:18px;color:#fff;text-shadow:0 1px 4px rgba(0,0,0,.6)}
+.handle{position:absolute;left:132px;bottom:22px;font-size:20px;font-weight:600;color:#fff;text-shadow:0 1px 4px rgba(0,0,0,.6)}
+svg{position:absolute;left:0;top:0}
+</style>
+</head>
+<body>
+<div class="root">
+  <img class="foto" src="foto-sofa.png" alt="">
+  <svg width="1080" height="1350" viewBox="0 0 1080 1350" aria-hidden="true">
+    <defs>
+      <marker id="seta" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 z" fill="#FFFFFF"/></marker>
+      <filter id="sombra" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="1" stdDeviation="2" flood-color="#000" flood-opacity="0.45"/></filter>
+    </defs>
+    <g filter="url(#sombra)">
+      <line x1="30" y1="273" x2="1050" y2="136" stroke="#FFFFFF" stroke-width="4" stroke-dasharray="16 10"/>
+      <line x1="110" y1="268" x2="110" y2="1340" stroke="#FFFFFF" stroke-width="5" marker-start="url(#seta)" marker-end="url(#seta)"/>
+    </g>
+  </svg>
+  <span class="selo">DICA DA ARQUI</span>
+  <div class="titulo">Topo do quadro entre<br><span style="white-space:nowrap">1,90 e 2,10 m do chão</span></div>
+  <div class="sub">Regrinha simples da Arqui para pendurar quadros</div>
+  <div class="cota">1,90 a 2,10 m</div>
+  <span class="handle">@confianaarquiteta</span>
+  <span class="credito">Foto: Tim Schmidbauer / Unsplash</span>
+</div>
+</body>
+</html>
