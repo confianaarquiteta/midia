@@ -26,8 +26,8 @@ ARTS["item1-feed"] = page(1080, 1350, """
 <div class="abs" style="inset:-40px;background:url(i1-a.jpg) center 20%/cover;filter:blur(26px) brightness(.62)"></div>
 <div class="abs" style="left:0;top:270px;width:1080px;height:1080px;background:url(i1-a.jpg) center/cover"></div>
 <div class="abs" style="left:0;top:262px;width:1080px;height:70px;background:linear-gradient(rgba(60,38,26,.55),rgba(60,38,26,0))"></div>
-<div class="abs" style="left:72px;top:58px"><span class="pill">APROVADO PELA ARQUI</span></div>
-<div class="abs h w ts" style="left:72px;top:150px;font-size:76px;width:980px;white-space:nowrap">O Natal começa na porta</div>
+<div class="abs" style="left:72px;top:40px"><span class="pill">APROVADO PELA ARQUI</span></div>
+<div class="abs h w ts" style="left:72px;top:112px;font-size:66px;width:980px;white-space:nowrap">Sua porta já está pronta<br>para o Natal?</div>
 <div class="abs" style="left:72px;bottom:48px"><span class="tag">Comenta QUERO e receba o link 🤎</span></div>
 <div class="abs ts" style="right:36px;bottom:14px;font-size:21px;color:#fff;opacity:.92">#publi · Foto: anúncio da loja</div>
 """)
@@ -38,7 +38,7 @@ ARTS["item3-feed-1"] = page(1080, 1350, """
 <div class="abs" style="left:0;right:0;top:0;height:470px;background:linear-gradient(rgba(30,20,15,.62),rgba(30,20,15,0))"></div>
 <div class="abs" style="left:0;right:0;bottom:0;height:300px;background:linear-gradient(rgba(30,20,15,0),rgba(30,20,15,.55))"></div>
 <div class="abs" style="left:72px;top:64px"><span class="pill">APROVADO PELA ARQUI</span></div>
-<div class="abs h w" style="left:72px;top:150px;font-size:88px;width:940px">Varanda com cara<br>de pousada</div>
+<div class="abs h w" style="left:72px;top:150px;font-size:88px;width:940px">Repara no babado<br>de macramê</div>
 <div class="abs w" style="left:72px;bottom:64px;font-size:40px;font-weight:600;line-height:1.2">Comenta QUERO<br>e receba o link 🤎</div>
 <div class="abs" style="right:40px;bottom:28px;font-size:22px;color:#fff;opacity:.92">#publi · Foto: anúncio da loja</div>
 """)
@@ -46,8 +46,8 @@ ARTS["item3-feed-1"] = page(1080, 1350, """
 ARTS["item3-feed-2"] = page(1080, 1350, """
 <div class="abs" style="left:0;top:270px;width:1080px;height:1080px;background:url(i3-b.jpg) center/cover"></div>
 <div class="abs" style="left:0;top:250px;width:1080px;height:40px;background:linear-gradient(#fff,rgba(255,255,255,0))"></div>
-<div class="abs h" style="left:72px;top:78px;font-size:66px;width:940px">Babado de macramê,<br>tecido de 2,80 x 1,50 m</div>
-<div class="abs" style="left:72px;bottom:110px"><span class="tag" style="background:#F3EDE4">Algodão · suporta até 400 kg</span></div>
+<div class="abs h" style="left:72px;top:78px;font-size:66px;width:940px">Tecido de 2,80 x 1,50 m,<br>em algodão</div>
+<div class="abs" style="left:72px;bottom:110px"><span class="tag" style="background:#F3EDE4">Suporta até 400 kg</span></div>
 <div class="abs" style="right:40px;bottom:30px;font-size:22px;color:#3B2A22;opacity:.8">#publi · Foto: anúncio da loja</div>
 """, bgc="#fff")
 
@@ -64,11 +64,11 @@ def story(img, title, sub, price, price_sub, photo_pos="center"):
 <div class="abs" style="right:80px;bottom:60px;font-size:26px;color:#6b5a52">Foto: anúncio da loja</div>
 """)
 
-ARTS["item1-story-link"] = story("i1-a.jpg", "O Natal começa<br>na porta", "Guirlanda de 30 cm, com laço e plaquinha “Feliz Natal”",
+ARTS["item1-story-link"] = story("i1-a.jpg", "Sua porta já está<br>pronta para o Natal?", "Guirlanda de 30 cm, com laço e plaquinha “Feliz Natal”",
                                  "R$ 41,90", "preço de hoje, pode mudar", "center 45%")
-ARTS["item2-story-link"] = story("i2-c.jpg", "Brinde com<br>cara de festa", "6 taças de cristal Bohemia, de 220 ml cada",
+ARTS["item2-story-link"] = story("i2-c.jpg", "Para o brinde<br>de fim de ano", "6 taças de cristal Bohemia, de 220 ml cada",
                                  "R$ 78,90", "preço de hoje, pode mudar", "center 60%")
-ARTS["item3-story-link"] = story("i3-a.jpg", "Varanda com cara<br>de pousada", "Rede de algodão com babado de macramê",
+ARTS["item3-story-link"] = story("i3-a.jpg", "Repara no babado<br>de macramê", "Rede de algodão, tecido de 2,80 x 1,50 m",
                                  "R$ 224,91", "preço de hoje, pode mudar", "center 55%")
 
 # ---------- ITEM 2: Reels das taças (18h30) — cenas com área da foto em y=440 (1080x1080) ----------
@@ -79,12 +79,12 @@ def scene(title, bottom, pill=False):
 <div class="abs" style="left:0;top:440px;width:1080px;height:1080px;background:#ddd"></div>
 <div class="abs" style="left:80px;top:1590px;font-size:40px;font-weight:500;width:920px;line-height:1.25">{bottom}</div>
 <div class="abs" style="right:80px;bottom:70px;font-size:24px;color:#6b5a52">#publi · Foto: anúncio da loja</div>""")
-ARTS["sc1"] = scene("Brinde com<br>cara de festa", "6 taças de cristal Bohemia", pill=True)
+ARTS["sc1"] = scene("Para o brinde<br>de fim de ano", "6 taças de cristal Bohemia", pill=True)
 ARTS["sc2"] = scene("Finas, com brilho<br>de cristal", "220 ml e 24,5 cm de altura")
 ARTS["sc3"] = scene("Da ceia de Natal<br>à virada do ano", "Comenta QUERO e receba o link 🤎")
 ARTS["item2-reels-capa"] = page(1080, 1920, """
 <div class="abs" style="left:80px;top:250px"><span class="pill">APROVADO PELA ARQUI</span></div>
-<div class="abs h" style="left:80px;top:350px;font-size:100px;width:920px">Brinde com<br>cara de festa</div>
+<div class="abs h" style="left:80px;top:350px;font-size:100px;width:920px">Para o brinde<br>de fim de ano</div>
 <div class="abs" style="left:0;top:700px;width:1080px;height:1080px;background:url(i2-c.jpg) center/cover"></div>
 <div class="abs" style="left:80px;bottom:50px;font-size:26px;color:#6b5a52">#publi · Foto: anúncio da loja</div>""")
 

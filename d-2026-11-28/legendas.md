@@ -35,7 +35,7 @@ Link: https://meli.la/1saSZz1
 
 #publi Imagina terminar o domingo balançando numa rede dessas, com aquele vento de fim de tarde… 🤍
 
-O babado de macramê dá o acabamento artesanal que deixa a varanda com cara de pousada charmosa. Ela é de algodão, tem tecido de 2,80 x 1,50 m, 4,50 m de ponta a ponta e suporta até 400 kg.
+O babado de macramê dá um acabamento artesanal que deixa a varanda mais aconchegante e charmosa. Ela é de algodão, tem tecido de 2,80 x 1,50 m, 4,50 m de ponta a ponta e suporta até 400 kg.
 
 Antes de comprar, confere o espaço: o anúncio pede pelo menos 3,80 m entre os ganchos (os ganchos não vêm junto) e indica área coberta.
 
