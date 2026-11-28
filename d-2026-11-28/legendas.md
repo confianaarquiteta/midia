@@ -1,15 +1,20 @@
 # 28/11/2026 — 3 posts de feed (aguardando ok da Maira)
 
-## 12h · Foto única · Guirlanda de Natal dourada 30 cm com luz de LED (item1-feed.jpg · story: item1-story-link.jpg)
-Link: https://meli.la/1GkEVZZ
+## 12h · Carrossel (7 slides) · 5 guirlandas com envio nacional (pasta guirlandas/: guirlandas-feed-1 a 7.jpg · stories: guirlandas-story-1 a 5.jpg, um por guirlanda, cada um com o link dela)
+Substitui o post da guirlanda única (pedido da Maira, 28/11).
+Links: 1 Dourada https://meli.la/1GkEVZZ · 2 Clássica vermelha https://meli.la/1oEnts6 · 3 Nevada https://meli.la/1zfBkxn · 4 Flores e "Feliz Natal" https://meli.la/13dNELo · 5 Verde, para enfeitar https://meli.la/2Ktrkhf
 
-#publi Uma lanterninha acesa no meio da guirlanda… é esse detalhe que deixa a entrada da casa aconchegante nas noites de dezembro ✨
+#publi Já escolheu a guirlanda da sua porta? Separei 5 estilos bem diferentes, todos com envio nacional… pelos prazos que conferi hoje, chegam antes do Natal 🎄
 
-Ela tem 30 cm de diâmetro, laço dourado com brilho, flores claras, pinhas e a luz de LED.
+✨ Dourada, com luz: 30 cm, laço dourado, flores claras e luz de LED.
+❤️ Clássica vermelha: 30 cm, laço vermelho, bolas e fio de luz de LED (o fio vem separado, para você distribuir do seu jeito).
+❄️ Nevada, com pinhas: 60 cm, pontas nevadas, pinhas e frutinhas. Os galhos vêm fechados, é só abrir e modelar.
+🌺 Flores e "Feliz Natal": 38 cm, laço, flores vermelhas, bolas e o letreiro dourado.
+🌿 Verde, para enfeitar: 60 cm, base lisa para você decorar com o que já tem em casa.
 
-O tom dourado com creme combina com quase toda porta, da branca à de madeira, e foge do vermelho de sempre.
+Olhar de arquiteta: confere a medida antes. A de 30 cm é delicada; a de 60 cm aparece de longe.
 
-Comenta QUERO que eu te mando o link 🤎
+Comenta QUERO e o nome da sua favorita que eu te mando o link 🤎
 
 Beijo da Arqui 🤎
 
