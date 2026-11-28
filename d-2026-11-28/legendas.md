@@ -1,13 +1,13 @@
 # 28/11/2026 — 3 posts de feed (aguardando ok da Maira)
 
-## 12h · Foto única · Guirlanda de Natal 30 cm (item1-feed.jpg · story: item1-story-link.jpg)
-Link: https://meli.la/2KSBVh6
+## 12h · Foto única · Guirlanda de Natal dourada 30 cm com luz de LED (item1-feed.jpg · story: item1-story-link.jpg)
+Link: https://meli.la/1GkEVZZ
 
-#publi A porta é a primeira coisa que a sua visita vê no Natal… e essa guirlanda já deixa o clima pronto antes de alguém tocar a campainha 🎄
+#publi Uma lanterninha acesa no meio da guirlanda… é esse detalhe que deixa a entrada da casa aconchegante nas noites de dezembro ✨
 
-Ela tem 30 cm de diâmetro, laço vermelho, frutinhas, folhagens e a plaquinha "Feliz Natal". Chega pronta, é só pendurar: na porta de entrada, na parede da sala ou perto da árvore.
+Ela tem 30 cm de diâmetro, laço dourado com brilho, flores claras, pinhas e a luz de LED.
 
-Detalhe pequeno, efeito grande, por menos de R$ 45.
+O tom dourado com creme combina com quase toda porta, da branca à de madeira, e foge do vermelho de sempre.
 
 Comenta QUERO que eu te mando o link 🤎
 

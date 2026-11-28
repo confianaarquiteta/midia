@@ -28,7 +28,6 @@ ARTS["item1-feed"] = page(1080, 1350, """
 <div class="abs" style="left:0;top:262px;width:1080px;height:70px;background:linear-gradient(rgba(60,38,26,.55),rgba(60,38,26,0))"></div>
 <div class="abs" style="left:72px;top:40px"><span class="pill">APROVADO PELA ARQUI</span></div>
 <div class="abs h w ts" style="left:72px;top:112px;font-size:66px;width:980px;white-space:nowrap">Sua porta já está pronta<br>para o Natal?</div>
-<div class="abs" style="left:72px;bottom:48px"><span class="tag">Comenta QUERO e receba o link 🤎</span></div>
 <div class="abs ts" style="right:36px;bottom:14px;font-size:21px;color:#fff;opacity:.92">#publi · Foto: anúncio da loja</div>
 """)
 
@@ -64,8 +63,8 @@ def story(img, title, sub, price, price_sub, photo_pos="center"):
 <div class="abs" style="right:80px;bottom:60px;font-size:26px;color:#6b5a52">Foto: anúncio da loja</div>
 """)
 
-ARTS["item1-story-link"] = story("i1-a.jpg", "Sua porta já está<br>pronta para o Natal?", "Guirlanda de 30 cm, com laço e plaquinha “Feliz Natal”",
-                                 "R$ 41,90", "preço de hoje, pode mudar", "center 45%")
+ARTS["item1-story-link"] = story("i1-a.jpg", "Sua porta já está<br>pronta para o Natal?", "Guirlanda de 30 cm, com laço dourado e luz de LED",
+                                 "R$ 113,59", "preço de hoje, pode mudar", "center 50%")
 ARTS["item2-story-link"] = story("i2-c.jpg", "Para o brinde<br>de fim de ano", "6 taças de cristal Bohemia, de 220 ml cada",
                                  "R$ 78,90", "preço de hoje, pode mudar", "center 60%")
 ARTS["item3-story-link"] = story("i3-a.jpg", "Repara no babado<br>de macramê", "Rede de algodão, tecido de 2,80 x 1,50 m",
